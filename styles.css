@@ -2,7 +2,7 @@
 body {
   margin: 0;
   font-family: Arial, sans-serif;
-  background: #f7f7f7;
+  background: #00BFFF;
   color: #333;
   line-height: 1.6;
 }
@@ -92,3 +92,4 @@ section h2 {
   padding: 10px;
   font-size: 0.9rem;
 }
+
